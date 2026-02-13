@@ -1,5 +1,5 @@
-CREATE DATABASE realeditor;
-Use realeditor
+CREATE DATABASE IF NOT EXISTS junitass;
+USE junitass;
 
 CREATE TABLE `files` (
 	`fileid` INT(11) NOT NULL AUTO_INCREMENT,

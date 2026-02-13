@@ -20,3 +20,54 @@
 2024-12-10 21:25:27.599 [AWT-EventQueue-0] INFO  pl.EditorPO - Do you want to delete the selected file?
 2024-12-10 21:25:40.338 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'surah falaq.txt' is: 0.009627044174443686
 2024-12-10 21:25:45.280 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'quran-simple.txt' is: 0.014417461355646866
+2026-02-13 20:38:11.412 [main] ERROR pl.EditorPO - (conn=3) Access denied for user 'root'@'localhost' (using password: YES)
+2026-02-13 21:55:48.313 [main] ERROR pl.EditorPO - (conn=4) Access denied for user 'root'@'localhost' (using password: YES)
+2026-02-13 22:09:23.392 [main] ERROR pl.EditorPO - (conn=10) Access denied for user 'root@ahmad'@'localhost' (using password: YES)
+2026-02-13 22:09:37.341 [AWT-EventQueue-0] ERROR pl.EditorPO - Cannot invoke "java.sql.Connection.rollback()" because "this.conn" is null
+2026-02-13 22:09:38.946 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 22:10:23.263 [main] ERROR pl.EditorPO - (conn=11) Access denied for user 'root@ahmad'@'localhost' (using password: YES)
+2026-02-13 22:10:28.749 [AWT-EventQueue-0] INFO  pl.EditorPO - Do you want to delete the selected file?
+2026-02-13 22:10:29.742 [AWT-EventQueue-0] WARN  pl.EditorPO - Please select a file to delete.
+2026-02-13 22:10:42.750 [AWT-EventQueue-0] INFO  pl.EditorPO - Do you want to delete the selected file?
+2026-02-13 22:11:09.230 [AWT-EventQueue-0] ERROR pl.EditorPO - Cannot invoke "java.sql.Connection.rollback()" because "this.conn" is null
+2026-02-13 22:12:26.894 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 22:15:55.388 [main] ERROR pl.EditorPO - (conn=12) Access denied for user 'root'@'localhost' (using password: YES)
+2026-02-13 22:23:45.641 [main] ERROR pl.EditorPO - (conn=17) Access denied for user 'root@ahmad'@'localhost' (using password: YES)
+2026-02-13 22:23:53.769 [AWT-EventQueue-0] ERROR pl.EditorPO - Cannot invoke "java.sql.Connection.rollback()" because "this.conn" is null
+2026-02-13 22:23:55.409 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 22:25:09.371 [main] ERROR pl.EditorPO - (conn=18) Access denied for user 'root@ahmad'@'localhost' (using password: YES)
+2026-02-13 22:25:15.860 [AWT-EventQueue-0] ERROR pl.EditorPO - Cannot invoke "java.sql.Connection.rollback()" because "this.conn" is null
+2026-02-13 22:25:17.654 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 22:25:29.233 [main] ERROR pl.EditorPO - (conn=19) Access denied for user 'root'@'localhost' (using password: YES)
+2026-02-13 22:25:33.941 [AWT-EventQueue-0] ERROR pl.EditorPO - Cannot invoke "java.sql.Connection.rollback()" because "this.conn" is null
+2026-02-13 22:25:37.990 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 22:26:41.970 [main] ERROR pl.EditorPO - (conn=20) Access denied for user 'root@ahmad'@'localhost' (using password: YES)
+2026-02-13 22:27:33.771 [main] ERROR pl.EditorPO - (conn=21) Access denied for user 'root'@'localhost' (using password: YES)
+2026-02-13 22:27:41.624 [AWT-EventQueue-0] ERROR pl.EditorPO - Cannot invoke "java.sql.Connection.rollback()" because "this.conn" is null
+2026-02-13 22:27:43.355 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 22:31:26.457 [main] ERROR pl.EditorPO - (conn=22) Access denied for user 'ahmad'@'localhost' (using password: YES)
+2026-02-13 22:32:00.578 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=24) SELECT command denied to user 'ahmad'@'localhost' for table `junitass`.`files`
+2026-02-13 22:32:02.339 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 22:32:02.346 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=24) SELECT command denied to user 'ahmad'@'localhost' for table `junitass`.`files`
+2026-02-13 22:36:02.165 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=24) SELECT command denied to user 'ahmad'@'localhost' for table `junitass`.`files`
+2026-02-13 22:36:03.478 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 22:36:03.479 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=24) SELECT command denied to user 'ahmad'@'localhost' for table `junitass`.`files`
+2026-02-13 22:36:28.120 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=26) Table 'junitass.files' doesn't exist
+2026-02-13 22:38:44.633 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=27) Table 'junitass.files' doesn't exist
+2026-02-13 22:38:45.758 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 22:38:45.766 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=27) Table 'junitass.files' doesn't exist
+2026-02-13 22:38:58.838 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 22:38:58.847 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=26) Table 'junitass.files' doesn't exist
+2026-02-13 22:50:17.597 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=31) Table 'junitass.pages' doesn't exist
+2026-02-13 22:50:19.500 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 23:26:04.013 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=5) Unknown column 'NaN' in 'VALUES'
+2026-02-13 23:26:05.856 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 23:30:34.780 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=5) Unknown column 'NaN' in 'VALUES'
+2026-02-13 23:32:01.142 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-13 23:34:01.685 [AWT-EventQueue-0] INFO  pl.EditorPO - File created successfully!
+2026-02-13 23:34:07.459 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'test' is: 0.0
+2026-02-13 23:34:13.289 [AWT-EventQueue-0] ERROR pl.EditorPO - Could not Search, Please Enter at least 3 letter to search
+2026-02-13 23:34:46.247 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'test' is: 0.0
+2026-02-13 23:37:21.040 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'test' is: 0.0
+2026-02-13 23:41:35.632 [AWT-EventQueue-0] INFO  pl.EditorPO - File created successfully!
+2026-02-13 23:42:04.716 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'test2' is: 0.06931471805599453
