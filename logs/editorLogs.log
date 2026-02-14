@@ -71,3 +71,14 @@
 2026-02-13 23:37:21.040 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'test' is: 0.0
 2026-02-13 23:41:35.632 [AWT-EventQueue-0] INFO  pl.EditorPO - File created successfully!
 2026-02-13 23:42:04.716 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'test2' is: 0.06931471805599453
+2026-02-14 00:33:41.977 [main] ERROR pl.EditorPO - (conn=21) Access denied for user 'root@bilal'@'localhost' (using password: YES)
+2026-02-14 00:35:04.882 [AWT-EventQueue-0] ERROR pl.EditorPO - Cannot invoke "java.sql.Connection.rollback()" because "this.conn" is null
+2026-02-14 00:36:51.811 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-14 00:37:08.823 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=22) Table 'junitass.files' doesn't exist
+2026-02-14 00:37:10.214 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-14 00:37:10.218 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=22) Table 'junitass.files' doesn't exist
+2026-02-14 00:42:03.109 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=27) Table 'junitass.files' doesn't exist
+2026-02-14 00:42:07.111 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-14 00:42:07.116 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=27) Table 'junitass.files' doesn't exist
+2026-02-14 00:56:23.995 [AWT-EventQueue-0] INFO  pl.EditorPO - File created successfully!
+2026-02-14 17:23:00.047 [AWT-EventQueue-0] INFO  pl.EditorPO - File created successfully!
