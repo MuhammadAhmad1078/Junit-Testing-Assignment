@@ -82,3 +82,9 @@
 2026-02-14 00:42:07.116 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=27) Table 'junitass.files' doesn't exist
 2026-02-14 00:56:23.995 [AWT-EventQueue-0] INFO  pl.EditorPO - File created successfully!
 2026-02-14 17:23:00.047 [AWT-EventQueue-0] INFO  pl.EditorPO - File created successfully!
+2026-02-15 02:27:09.668 [main] ERROR pl.EditorPO - (conn=13) Access denied for user 'root'@'localhost' (using password: YES)
+2026-02-15 02:27:09.684 [main] ERROR pl.EditorPO - (conn=14) Access denied for user 'root'@'localhost' (using password: YES)
+2026-02-15 02:29:53.384 [main] ERROR pl.EditorPO - (conn=15) Access denied for user 'root'@'localhost' (using password: YES)
+2026-02-15 02:29:53.399 [main] ERROR pl.EditorPO - (conn=16) Access denied for user 'root'@'localhost' (using password: YES)
+2026-02-15 03:01:34.906 [main] ERROR pl.EditorPO - (conn=17) Access denied for user 'root'@'localhost' (using password: YES)
+2026-02-15 03:01:34.920 [main] ERROR pl.EditorPO - (conn=18) Access denied for user 'root'@'localhost' (using password: YES)
